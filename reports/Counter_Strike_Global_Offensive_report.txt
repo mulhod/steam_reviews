@@ -1,0 +1,26 @@
+Descriptive Report for Counter Strike Global Offensive
+===============================================================================
+
+Number of English-language reviews: 7073
+
+Review Lengths Distribution
+
+Average review length: 298.83203125
+Minimum review length = 3
+Maximum review length = 7966
+Standard deviation = 685.4984130859375
+
+
+Review Experience Distribution
+
+Average game experience (in hours played): 805.3681640625
+Minimum experience = 0.0
+Maximum experience = 13333.3
+Standard deviation = 721.26904296875
+
+
+Filter Values
+Minimum length = 50.0
+Maximum length = 3040.82568359375
+Minimum hours played = 0.0
+Maximum hours played = 3690.4443359375

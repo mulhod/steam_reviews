@@ -1,0 +1,26 @@
+Descriptive Report for Sid Meiers Civilization 5
+===============================================================================
+
+Number of English-language reviews: 7467
+
+Review Lengths Distribution
+
+Average review length: 252.6201934814453
+Minimum review length = 4
+Maximum review length = 7029
+Standard deviation = 472.5579528808594
+
+
+Review Experience Distribution
+
+Average game experience (in hours played): 283.3828430175781
+Minimum experience = 0.1
+Maximum experience = 15252.1
+Standard deviation = 508.3820495605469
+
+
+Filter Values
+Minimum length = 50.0
+Maximum length = 2142.85205078125
+Minimum hours played = 0.0
+Maximum hours played = 2316.9111328125

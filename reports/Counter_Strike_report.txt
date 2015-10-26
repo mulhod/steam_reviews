@@ -1,0 +1,26 @@
+Descriptive Report for Counter Strike
+===============================================================================
+
+Number of English-language reviews: 6040
+
+Review Lengths Distribution
+
+Average review length: 110.31705474853516
+Minimum review length = 2
+Maximum review length = 7961
+Standard deviation = 317.3714904785156
+
+
+Review Experience Distribution
+
+Average game experience (in hours played): 633.3330688476562
+Minimum experience = 0.0
+Maximum experience = 16227.6
+Standard deviation = 1108.73974609375
+
+
+Filter Values
+Minimum length = 50.0
+Maximum length = 1379.802978515625
+Minimum hours played = 0.0
+Maximum hours played = 5068.2919921875
